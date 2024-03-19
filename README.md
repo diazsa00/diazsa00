@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 - 💬 Pregúntame sobre **react, react-native, nodejs, mongoDB**
 
-- 📫 Feel free to reach me out **diazsa00@gmail.com**
+- 📫 No dudes en comunicarte conmigo **diazsa00@gmail.com**
 
 <!--Intro end-->
 
